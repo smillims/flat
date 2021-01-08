@@ -1,2 +1,2 @@
-# smillims.github.com
+https://smillims.github.io/flat/
 First site
